@@ -1,0 +1,32 @@
+.menuButton {
+  margin-right: 1rem !important;
+}
+.sidebar {
+  background-color: #222d32;
+  height: 100%;
+  color: #a8a8a8;
+}
+.sidebar .sidebarHeader {
+  text-align: end;
+  color: #a8a8a8;
+}
+.sidebar .sidebarHeader svg {
+  padding: 0.5rem;
+  border: 1px solid #a8a8a8;
+}
+
+.sidebar .sidebarContent {
+  width: 15rem;
+}
+.floatRight {
+  margin: 0 0 0 auto !important;
+}
+.menuNestedItem {
+  padding-left: 3rem !important;
+}
+.pl1 {
+  padding-left: 1rem;
+}
+.m0 {
+  margin: 0 !important;
+}

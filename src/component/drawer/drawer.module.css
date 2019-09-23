@@ -1,0 +1,17 @@
+.drawerWidth {
+  width: 25%;
+}
+.root {
+  background-color: 'white';
+  display: 'flex';
+  flex-direction: 'column';
+  height: '100%';
+  padding: 2;
+  margin-top: 1rem;
+}
+.divider {
+  margin: 2;
+}
+.nav {
+  margin-bottom: 2;
+}

@@ -1,0 +1,26 @@
+.topbar {
+  position: fixed !important;
+}
+.search {
+  /* position: 'relative'; */
+  border-radius: 10px;
+  background-color: #7b88d1;
+  margin-left: 0;
+  width: 20%;
+}
+.pageTitle {
+  flex-grow: 1;
+}
+.searchIcon {
+  margin-left: 1rem;
+  width: 10px;
+  height: 30px;
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.searchBox {
+  color: aliceblue !important;
+  padding-left: 2.5rem !important;
+}
